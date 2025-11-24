@@ -1,1 +1,1 @@
-In this file we will keep errata associated to the book "Mathematical Foundations of Deep Leanring Models and Algorithms" published by the American Mathematical Society (AMS).
+In this file we will keep errata associated to the book ["Mathematical Foundations of Deep Leanring Models and Algorithms"](https://bookstore.ams.org/view?ProductCode=GSM/252&_zs=hX3BH1&_zl=C09q7) published by the American Mathematical Society (AMS) in 2025.
