@@ -4,7 +4,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
    $`\Lambda(\theta)\overset{\text{def}}{=} \frac{1}{M}\sum_{m=1}^M \ell_{y_{m}}(\mathfrak{m}(x_{m};\theta)), `$
 2. Page 15: The first bullet point after (1.11) should read
    "If the data set is too small and the model $\mathfrak{m}(x;\theta)$ is not trained on sufficient enough data points, then the model will have large variance."
-3. Page 219: Around the model, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
+3. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
 
 
 Last updated: December 15, 2025
