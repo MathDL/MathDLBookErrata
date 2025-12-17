@@ -7,7 +7,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 3. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
 4. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
 5. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
-   $\frac{\partial\mathfrak}{m}_{\ell}{\partial\theta}(z_{\ell-1},x;\theta)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}$.
+   $\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}$.
 
 
 Last updated: December 15, 2025
