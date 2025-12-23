@@ -4,7 +4,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
    $`\Lambda(\theta)\overset{\text{def}}{=} \frac{1}{M}\sum_{m=1}^M \ell_{y_{m}}(\mathfrak{m}(x_{m};\theta)), `$
 2. Page 15: The first bullet point after (1.11) should read
    "If the data set is too small and the model $\mathfrak{m}(x;\theta)$ is not trained on sufficient enough data points, then the model will have large variance."
-3. Page 52-53 in Section 3.6: The variable $m$ can be thought as $w$ to match previous notation, but technically speaking $m$ is also correct.
+3. Page 52-53 in Section 3.6: The variable $m$ can be thought of as $w$ to match previous notation, but technically speaking $m$ is also correct.
 4. Page 54: In the third display $w$ should be capital $W$, i.e.\
    $`\mathfrak{m}(x;\theta)=S_{softmax}(Wx+b),`$   
 5. Page 95: The second formula from the end should read\
