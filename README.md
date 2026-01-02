@@ -1,8 +1,8 @@
 In this file we will keep errata associated to the book ["Mathematical Foundations of Deep Leanring Models and Algorithms"](https://bookstore.ams.org/view?ProductCode=GSM/252&_zs=hX3BH1&_zl=C09q7) published by the American Mathematical Society (AMS) in 2025.
 
-1. Page xvii: In the "Norms" block of the Notation section, there is an absolute value missing from the definition of the $\|x\|_{q}$ norm\
+1. Page xvii: In the "Norms" block of the Notation section, there is an absolute value missing from the definition of the $||x||_{q}$ norm\
    $`\|x\|_{q}=\left(\sum_{i=1}^{D}|x_{i}|^{q}\right)^{1/q}`$
-2. Page 6: There is an absolute value missing from the definition of the $\|x\|_{q}$ norm\
+2. Page 6: There is an absolute value missing from the definition of the $||x||_{q}$ norm\
    $`\|x\|_{q}=\left(\sum_{i=1}^{D}|x_{i}|^{q}\right)^{1/q}`$    
 1. Page 11: There is an $m$ missing at the formula right after (1.9). That formula should read\
    $`\Lambda(\theta)\overset{\text{def}}{=} \frac{1}{M}\sum_{m=1}^M \ell_{y_{m}}(\mathfrak{m}(x_{m};\theta)), `$
