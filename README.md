@@ -14,9 +14,10 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 5. Page 95: The second formula from the end should read\
    $`\frac{\partial\Lambda}{\partial Z}=\frac{\partial\Lambda}{\partial H}\frac{\partial H}{\partial Z}=...`$   
 6. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
-7. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
-8. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
+7. Page 267: In the statement of Lemma 16.13, second line, $\mathbb{R}_{1}$ should be $\mathbb{R}^{1}$.
+8. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
+9. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 
 
-Last updated: January 2, 2026
+Last updated: February 3, 2026
