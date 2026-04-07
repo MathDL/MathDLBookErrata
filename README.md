@@ -21,10 +21,11 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
    $`\frac{\partial\Lambda}{\partial m}=-(y-m(x;\theta)).`$
 12. Page 98: The second formula in the second display should read: $`\frac{\partial \Lambda}{\partial w^{\ell}_{ij}}=\delta^{\ell}_{j}\cdot x^{\ell-1}_{i},`$
 13. Page 103: In the second paragraph of Section 6.7, instead of  "Rumelhart, Hornik, and Williams in 1986 [RHW86]", it should be "Rumelhart, Hinton, and Williams in 1986 [RHW86]".
-14. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
-15. Page 267: In the statement of Lemma 16.13, second line, $\mathbb{R}_{1}$ should be $\mathbb{R}^{1}$.
-16. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
-17. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
+14. Page 205: In figure 13.7, K(V) should be K(X).
+15. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
+16. Page 267: In the statement of Lemma 16.13, second line, $\mathbb{R}_{1}$ should be $\mathbb{R}^{1}$.
+17. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
+18. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 
 
