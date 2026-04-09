@@ -30,4 +30,4 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 
 
-Last updated: April 7, 2026
+Last updated: April 9, 2026
