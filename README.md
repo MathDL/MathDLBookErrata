@@ -37,7 +37,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 26. Page 412: In formula (21.28) of Theorem 21.6, the maximum in the summation should be  $\max_{a''\in A} h_s(z, a'')$.
 27. Page 413: In the Taylor expansion step of Step 1 of the proof of Theorem 21.6, the first summation term should be\
     $`\frac{1}{\sqrt{N}}\sum_{n=1}^{N}(C_{k+1}^{n}-C_{k}^{n})\sigma(W_{k+1}^{n}\cdot \xi)`$
-28. Page 417: The discount factor is incorrectly denoted by $\gamma$. It shoul be $\beta$. This is in the second line of (21.33) and in the second line of (21.34).
+28. Page 417: The discount factor is incorrectly denoted by $\gamma$. It should be $\beta$. This is in the second line of (21.33) and in the second line of (21.34).
 29. Page 418: In the end of the second line of the first display of the page $C^i_k$ should have been $C^n_k$.
 30. Page 420: In the last display of the page $\hat{w}$ should be $w$, i.e., the formula should read\
     $`\left(\sum_{m=1}^{M}z_{m}\sigma(w\cdot \xi_{m})+c\sigma'(w\cdot \xi_{m})\xi_{m}\right)^{2}>\frac{\epsilon}{2}>0.`$     
