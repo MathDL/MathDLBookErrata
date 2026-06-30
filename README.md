@@ -25,8 +25,24 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 15. Page 207: Definition 13.3 should read "An operator $`\mathcal{Z}: \mathbb{R}^{d\times n}\mapsto \mathbb{R}^{d\times n}`$ ..." instead of "An operator $`\mathcal{Z}: \mathbb{R}^{n\times d}\mapsto \mathbb{R}^{n\times d}`$ ..."
 16. Page 219: Around the middle of the page, it should be $\mathfrak{m}(\textbf{X};\theta)$ instead of $\mathfrak{m}(\textbf{X},\theta).$
 17. Page 267: In the statement of Lemma 16.13, second line, $\mathbb{R}_{1}$ should be $\mathbb{R}^{1}$.
-18. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
-19. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
+18. Page 396:  Second display to the end. The initial condition for the dynamics of the vehicle should read $\mathcal{R}_{0}(x;\lambda)=x$ instead of $\mathcal{R}_{n}(x;\lambda)=x$.
+19. Page 398: Towards the middle, the sentence "We certainly have that $J(x;lambda) \geq 1$." should be replaced by the sentence "We certainly have that $T_{\lambda}(x) \geq 1\cdot \delta$."
+20. Page 398: In the first line of the last display, there is an extra $(z)$ in $\Phi_{\lambda(z)}$. Namely it should be $\Phi_{\lambda}$ instead of $\Phi_{\lambda(z)}$.
+21. Page 400: In the expression right after (21.13) where the optimal policy $\lambda_{N}(x)$ is defined, the  $Q$ function is missing. Namely it should read\
+    $`\lambda_N(x)= \argmin_{\alpha \in A}Q(x,\alpha',\theta_N).`$
+22. Page 403: In the first formula of the page for the best policy, $\lambda*$ should be a function of $x$, not of $z$.
+23. Page 404: In the sentence before formula (21.19), the sentence "Therefore, let us now suppose that $x\neq 0$..." should read "Therefore, let us now suppose that $x\notin B$..."
+24. Page 407: In the mathematical display right after (21.22), $V(j+1 | z, a′)$ should be $V(j+1, z, a′)$.
+25. Page 411: In Remark 21.3, $G(x_k, a_k, \theta_k)$ should be $Q(x_k, a_k, \theta_k)$.
+26. Page 412: In formula (21.28) of Theorem 21.6, the maximum in the summation should be  $\max_{a''\in A} h_s(z, a'')$.
+27. Page 413: In the Taylor expansion step of Step 1 of the proof of Theorem 21.6, the first summation term should be\
+    $`\frac{1}{\sqrt{N}}\sum_{n=1}^{N}(C_{k+1}^{n}-C_{k}^{n})\sigma(W_{k+1}^{n}\cdot \xi)`...$
+28. Page 417: The discount factor is incorrectly denoted by $\gamma$. It shoul be $\beta$. This is in the second line of (21.33) and in the second line of (21.34).
+29. Page 418: In the end of the second line of the first display of the page $C^i_k$ should have been $C^n_k$.
+30. Page 420: In the last display of the page $\hat{w}$ should be $w$, i.e., the formula should read\
+    $`\left(\sum_{m=1}^{M}z_{m}\sigma(w\cdot \xi_{m})+c\sigma'(w\cdot \xi_{m})\xi_{m}\right)^{2}>\frac{\epsilon}{2}>0.`$     
+32. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
+33. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 
 
