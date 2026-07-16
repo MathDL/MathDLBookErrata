@@ -30,25 +30,31 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 19. Page 246: Last sentence of first paragragh of Section 15.5 should read: "Mode collapse is when the generator produces the same output for many different inputs, and it is a challenge that large-scale images will often face."
 20. Page 247: In the second line of the page the "i" in optimization is missing.
 21. Page 267: In the statement of Lemma 16.13, second line, $\mathbb{R}_{1}$ should be $\mathbb{R}^{1}$.
-22. Page 396:  Second display to the end. The initial condition for the dynamics of the vehicle should read $R_{0}(x;\lambda)=x$ instead of $R_{n}(x;\lambda)=x$.
-23. Page 398: Towards the middle, the sentence "We certainly have that $J(x;\lambda) \geq 1$." should be replaced by the sentence "We certainly have that $T_{\lambda}(x) \geq 1\cdot \delta$."
-24. Page 398: In the first line of the last display, there is an extra $(z)$ in $\Phi_{\lambda(z)}$. Namely it should be $\Phi_{\lambda}$ instead of $\Phi_{\lambda(z)}$.
-25. Page 400: In the expression right after (21.13) where the optimal policy $\lambda_{N}(x)$ is defined, the  $Q$ function is missing. Namely it should read\
+22. Page 333: Time integrals are  missing in the two integral lines of (19.4).
+23. Page 335: Ending of first line in that page should read: "..., since $A$ is positive definite."
+24. Page 396: The sentence after (21.2) should end as follows: "...acts tranversally to the boundary of $\mathsf{B}=(q_{+},\infty)\times\mathbb{R}$."
+25. Page 396: Last line of second paragraph should read "discretization" instead of "descritization".
+26. Page 396:  Second display to the end. The initial condition for the dynamics of the vehicle should read $R_{0}(x;\lambda)=x$ instead of $R_{n}(x;\lambda)=x$.
+27. Page 398: Towards the middle, the sentence "We certainly have that $J(x;\lambda) \geq 1$." should be replaced by the sentence "We certainly have that $T_{\lambda}(x) \geq 1\cdot \delta$."
+28. Page 398: In the first line of the last display, there is an extra $(z)$ in $\Phi_{\lambda(z)}$. Namely it should be $\Phi_{\lambda}$ instead of $\Phi_{\lambda(z)}$.
+29. Page 400: In the expression right after (21.13) where the optimal policy $\lambda_{N}(x)$ is defined, the  $Q$ function is missing. Namely it should read\
     $`\lambda_N(x)= \text{argmin}_{\alpha \in A}Q(x,\alpha',\theta_N).`$
-26. Page 403: In the first formula of the page for the best policy, $\lambda^{*}$ should be a function of $x$, not of $z$.
-27. Page 404: In the sentence before formula (21.19), the sentence "Therefore, let us now suppose that $x\neq 0$..." should read "Therefore, let us now suppose that $x\notin B$..."
-28. Page 407: In the mathematical display right after (21.22), $V(j+1 | z, a′)$ should be $V(j+1, z, a′)$.
-29. Page 411: In Remark 21.3, $G(x_k, a_k, \theta_k)$ should be $Q(x_k, a_k, \theta_k)$.
-30. Page 412: In formula (21.28) of Theorem 21.6, the maximum in the summation should be  $\max_{a''\in A} h_s(z, a'')$.
-31. Page 413: In the Taylor expansion step of Step 1 of the proof of Theorem 21.6, the first summation term should be\
+30. Page 403: In the first formula of the page for the best policy, $\lambda^{*}$ should be a function of $x$, not of $z$.
+31. Page 404: In the sentence before formula (21.19), the sentence "Therefore, let us now suppose that $x\neq 0$..." should read "Therefore, let us now suppose that $x\notin B$..."
+32. Page 407: In the mathematical display right after (21.22), $V(j+1 | z, a′)$ should be $V(j+1, z, a′)$.
+33. Page 411: In Remark 21.3, $G(x_k, a_k, \theta_k)$ should be $Q(x_k, a_k, \theta_k)$.
+34. Page 411: A comma is missing in "As we prove in Section 21.5, however, taking $\beta$ to be small does guarantee that the algorithm is moving in the descent direction of the objective function, and thus in that case convergence can be realized."
+35. Page 412: In formula (21.28) of Theorem 21.6, the maximum in the summation should be  $\max_{a''\in A} h_s(z, a'')$.
+36. Page 413: In the Taylor expansion step of Step 1 of the proof of Theorem 21.6, the first summation term should be\
     $`\frac{1}{\sqrt{N}}\sum_{n=1}^{N}(C_{k+1}^{n}-C_{k}^{n})\sigma(W_{k+1}^{n}\cdot \xi)`$
-32. Page 417: The discount factor is incorrectly denoted by $\gamma$. It should be $\beta$. This is in the second line of (21.33) and in the second line of (21.34).
-33. Page 418: In the end of the second line of the first display of the page $C^i_k$ should have been $C^n_k$.
-34. Page 420: In the last display of the page $\hat{w}$ should be $w$, i.e., the formula should read\
-    $`\left(\sum_{m=1}^{M}z_{m}\sigma(w\cdot \xi_{m})+c\sigma'(w\cdot \xi_{m})\xi_{m}\right)^{2}>\frac{\epsilon}{2}>0.`$     
-35. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
-36. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
+37. Page 417: The discount factor is incorrectly denoted by $\gamma$. It should be $\beta$. This is in the second line of (21.33) and in the second line of (21.34).
+38. Page 418: In the end of the second line of the first display of the page $C^i_k$ should have been $C^n_k$.
+39. Page 420: In the last display of the page $\hat{w}$ should be $w$, i.e., the formula should read\
+    $`\left(\sum_{m=1}^{M}z_{m}\sigma(w\cdot \xi_{m})+c\sigma'(w\cdot \xi_{m})\xi_{m}\right)^{2}>\frac{\epsilon}{2}>0.`$
+40. Page 435: In the second display, $\frac{1}{N2}$ should have been $\frac{1}{2N}$.       
+41. Page 462: Equation (24.1) should read $z_{1}=\mathfrak{m}_{1}(x;\theta)$. There is an extra "=".
+42. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 
 
-Last updated: July 12, 2026
+Last updated: July 16, 2026
