@@ -56,7 +56,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 42. Page 462: Three lines before the end of the page there is a subscript $\ell-1$ missing on $z$ in the formula. The formula should read\
    $`\frac{\partial\mathfrak{m}_{\ell}}{\partial\theta}\left(z_{\ell-1},x;\theta\right)=\sigma'\left(W^{\ell}_{z}z_{\ell-1}+W^{\ell}_{x}x\right)\odot W^{\ell}_{z}`$.
 43. Page 479: In the definition of the metric $d(x,y)$, the second $\gamma$ that appears in the right hand size (namely the $\gamma$ that is the variable in the $q$ function) should by $y$. Namely the formula should be\
-    $`d(x,y)&=\inf_{\zeta\in Z}\left[\gamma(\zeta)\vee \int_{0}^{T}e^{-u}\left(\sup_{t\geq 0}q\left(x_{t\wedge u},y(\zeta_{t}\wedge u)\right)\right)du\right].`$
+    $`d(x,y)=\inf_{\zeta\in Z}\left[\gamma(\zeta)\vee \int_{0}^{T}e^{-u}\left(\sup_{t\geq 0}q\left(x_{t\wedge u},y(\zeta_{t}\wedge u)\right)\right)du\right].`$
 
 
 Last updated: July 16, 2026
