@@ -62,4 +62,4 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
     $`d(x,y)=\inf_{\zeta\in Z}\left[\gamma(\zeta)\vee \int_{0}^{T}e^{-u}\left(\sup_{t\geq 0}q\left(x_{t\wedge u},y(\zeta_{t}\wedge u)\right)\right)du\right].`$
 
 
-Last updated: July 16, 2026
+Last updated: September 16, 2026
