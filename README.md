@@ -12,7 +12,7 @@ In this file we will keep errata associated to the book ["Mathematical Foundatio
 6. Page 43: About halfway down on page 43, following the sentence "In Figure 3.5 we plot ..." the second limit should be $\lim_{y'\nearrow 1}$ (namely y' is increasing to 1)
    instead of $\lim_{y'\nearrow 0}$ (namely instead of y' increasing to 0.)
 7. Page 43: The formula towards the end should be $1-S(z)=\frac{1}{1+e^{z}},\quad z\in\mathbb{R}.$ Namely the $x$ should be a $z$ in the formula.
-8. Page 52: In a couple of places towards the end, the incorrect formula $\text{min}_{1\leq N\leq N}|X_{n}|$ should be replaced by $\text{min}_{1\leq n\leq N}|X_{n}|$.    
+8. Page 52: In a couple of places towards the end, the incorrect formula $\min_{1\leq N\leq N}|X_{n}|$ should be replaced by $\min_{1\leq n\leq N}|X_{n}|$.    
 9. Page 52-53 in Section 3.6: The variable $m$ can be thought of as $w$ to match previous notation, but technically speaking $m$ is also correct.
 10. Page 54: In the third display $w$ should be capital $W$, i.e.\
    $`\mathfrak{m}(x;\theta)=S_{softmax}(Wx+b),`$
